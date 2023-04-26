@@ -1,0 +1,44 @@
+\t (00:00:01) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Mar 29 13:13:52 2023
+\t (00:00:01)         Host=MEDO_XXB User=xxb Pid=2080 CPUs=12
+\t (00:00:01) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe D:\BaiduSyncdisk\orcad_cis\symbol\h2x381.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged h2x381
+\d (00:00:01) Design opened: D:/BaiduSyncdisk/orcad_cis/symbol/h2x381.dra
+\i (00:00:01) trapsize 832
+\i (00:00:02) trapsize 847
+\i (00:00:02) trapsize 832
+\i (00:00:02) trapsize 1030
+\i (00:00:02) trapsize 1011
+\i (00:00:02) generaledit 
+\i (00:00:07) show element 
+\i (00:00:08) pick grid 1.9919 -0.2123
+\t (00:00:08) last pick:  2.5400 0.0000
+\i (00:00:16) setwindow text
+\i (00:00:16) close
+\i (00:00:20) setwindow pcb
+\i (00:00:20) pick grid 2.2346 0.1314
+\t (00:00:20) last pick:  2.5400 0.0000
+\i (00:00:22) setwindow text
+\i (00:00:22) close
+\i (00:00:24) setwindow pcb
+\i (00:00:24) trapsize 1514
+\i (00:00:25) trapsize 1590
+\i (00:01:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (00:01:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (00:01:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (00:01:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (00:52:26) trapsize 1637
+\i (00:52:27) trapsize 1011
+\i (00:52:29) open 
+\e (00:52:29) Do you want to save the changes you made to h2x381.dra?
+\i (00:52:30) fillin no 
+\i (00:52:44) fillin "D:/BaiduSyncdisk/hw/MR702/MR702_V1.0/brd/MR702_V1_0.brd"
+\i (00:52:44) cd "D:/BaiduSyncdisk/hw/MR702/MR702_V1.0/brd"
+\t (00:52:45) Opening existing design...
+\i (00:52:45) trapsize 22231
+\i (00:52:45) trapsize 22631
+\i (00:52:45) trapsize 25820
+\t (00:52:45)     Journal end - Wed Mar 29 14:06:35 2023

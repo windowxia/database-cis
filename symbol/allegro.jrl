@@ -1,0 +1,113 @@
+\t (00:00:01) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Mar 29 17:24:55 2023
+\t (00:00:01)         Host=MEDO_XXB User=xxb Pid=4440 CPUs=12
+\t (00:00:01) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe D:\BaiduSyncdisk\orcad_cis\symbol\h4x2_381.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "h4x2_381"
+\d (00:00:01) Design opened: D:/BaiduSyncdisk/orcad_cis/symbol/h4x2_381.dra
+\i (00:00:01) trapsize 2060
+\i (00:00:01) trapsize 2137
+\i (00:00:01) trapsize 2220
+\i (00:00:01) trapsize 2137
+\i (00:00:01) trapsize 2060
+\i (00:00:01) trapsize 2060
+\i (00:00:01) trapsize 2022
+\i (00:00:01) generaledit 
+\i (00:00:05) color192 
+\i (00:00:05) generaledit 
+\i (00:00:06) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:07) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 3.9029 14.4186
+\i (00:00:08) trapsize 1011
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -8.0485 14.4186
+\i (00:00:09) trapsize 2022
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 6.3296 15.8746
+\i (00:00:11) trapsize 1011
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -6.8352 15.8746
+\i (00:00:11) trapsize 2022
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'C180H140F180.pad'.
+\i (00:00:47) pick 7.62 12.7 
+\t (00:00:47) last pick:  7.6200 12.7000
+\t (00:00:47) Using 'C180H140F180.pad'.
+\i (00:00:55) pick 7.62 0 
+\t (00:00:55) last pick:  7.6200 0.0000
+\t (00:00:55) Using 'C180H140F180.pad'.
+\i (00:00:56) prepopup 15.7129 5.2376
+\i (00:00:57) done 
+\t (00:00:57) Exiting from Add Pin.
+\i (00:00:57) generaledit 
+\i (00:01:00) show measure 
+\i (00:01:01) pick grid 3.7412 12.6390
+\t (00:01:01) last pick:  3.7338 12.6492
+\i (00:01:02) pick grid 7.7856 12.8413
+\t (00:01:02) last pick:  7.7978 12.8524
+\i (00:01:03) prepopup 14.4591 12.3155
+\i (00:01:04) done 
+\i (00:01:04) generaledit 
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 2.7300 10.9404
+\i (00:01:05) trapsize 1011
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -8.4125 11.1426
+\i (00:01:05) trapsize 2022
+\i (00:01:09) shape select 
+\i (00:01:11) pick grid 6.0870 7.0981
+\t (00:01:11) last pick:  6.0960 7.0866
+\i (00:01:13) drag_start grid 6.2083 6.3296
+\t (00:01:13) last pick:  6.2650 6.3296
+\i (00:01:19) ipick 3.81 
+\t (00:01:19) last pick:  10.0750 6.3296
+\t (00:01:19) No DRC errors detected.
+\i (00:01:19) drag_stop grid 8.4328 6.0465
+\i (00:01:20) prepopup 11.5066 6.2083
+\i (00:01:21) next 
+\i (00:01:21) shape select 
+\i (00:01:23) setwindow form.mini
+\i (00:01:23) FORM mini subcolor 0 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) updateport CVPane
+\i (00:01:25) pick grid 6.1679 7.6239
+\t (00:01:25) last pick:  6.1722 7.6200
+\i (00:01:26) drag_start grid 6.1274 7.3003
+\t (00:01:26) last pick:  6.2650 7.3003
+\i (00:01:32) ipick 3.81 
+\t (00:01:32) last pick:  10.0750 7.3003
+\t (00:01:32) No DRC errors detected.
+\i (00:01:32) drag_stop grid 7.4216 7.2599
+\i (00:01:33) prepopup 15.0253 10.5359
+\i (00:01:34) next 
+\i (00:01:34) shape select 
+\i (00:01:35) setwindow form.mini
+\i (00:01:35) FORM mini subcolor 0 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) updateport CVPane
+\i (00:01:37) pick grid 6.3701 5.7230
+\t (00:01:37) last pick:  6.3754 5.7150
+\i (00:01:38) drag_start grid 6.2487 6.2487
+\t (00:01:38) last pick:  6.2650 6.2487
+\i (00:01:42) ipick 3.81 
+\t (00:01:42) last pick:  10.0750 6.2487
+\t (00:01:42) No DRC errors detected.
+\i (00:01:42) drag_stop grid 8.4732 5.8847
+\i (00:01:43) prepopup 12.8817 7.9070
+\i (00:01:43) done 
+\i (00:01:43) generaledit 
+\i (00:01:45) save 
+\i (00:01:46) fillin yes 
+\t (00:01:46) Symbol 'h4x2_381.psm' created.
+\i (00:01:46) generaledit 
+\i (00:01:49) exit 
+\t (00:01:49)     Journal end - Wed Mar 29 17:26:43 2023

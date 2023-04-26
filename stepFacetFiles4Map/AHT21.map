@@ -1,0 +1,109 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MM"/>
+  <Body>
+    <MapItem package="2P_2MM_H">
+      <StepModel type="PRIMARY" file="PH20_2P.STEP">
+        <Offset x="1.000000" y="-10.200000" z="5.800000"/>
+        <Rotation x="90.000" y="0.000" z="270.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="TESTHOLE">
+      <StepModel type="PRIMARY" file="SMTSO-M3-3ET.STEP">
+        <Offset x="0.000000" y="0.000000" z="-1.500000"/>
+        <Rotation x="0.000" y="270.000" z="0.000"/>
+        <MapColor colorIndex="117" r="1.000000" g="1.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="DIOM5436X265N">
+      <StepModel type="PRIMARY" file="DIOM5539X24.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="3215">
+      <StepModel type="PRIMARY" file="SX3215.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOD2513X100N">
+      <StepModel type="PRIMARY" file="SOD323.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="R0402">
+      <StepModel type="PRIMARY" file="0402_R.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SPK">
+      <StepModel type="PRIMARY" file="Buzzer1205C.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="90.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPMP7343X430N">
+      <StepModel type="PRIMARY" file="TANE.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="C0805">
+      <StepModel type="PRIMARY" file="0805_C.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="C0402">
+      <StepModel type="PRIMARY" file="0402_C.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="IPEX">
+      <StepModel type="PRIMARY" file="medoIPEX.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="180.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT-23">
+      <StepModel type="PRIMARY" file="SOT23-3.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="270.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="OSCCC320X500X150-4N">
+      <StepModel type="PRIMARY" file="SX3215.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="270.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOIC254P1016X410-4N">
+      <StepModel type="PRIMARY" file="PC817.STEP">
+        <Offset x="0.000000" y="0.000000" z="2.000000"/>
+        <Rotation x="90.000" y="0.000" z="270.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="AHT21">
+      <StepModel type="PRIMARY" file="SHT21.STEP">
+        <Offset x="1.500000" y="-1.500000" z="1.000000"/>
+        <Rotation x="0.000" y="270.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="W25Q256">
+      <StepModel type="PRIMARY" file="W25Q256JVEIQ.STEP">
+        <Offset x="4.000000" y="-3.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="270.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="QFP50P1200X1200X120-64N">
+      <StepModel type="PRIMARY" file="STM32-LQFP64.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>
